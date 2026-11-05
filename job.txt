@@ -1,0 +1,9 @@
+Job: Junior AI Engineer
+
+Requirements:
+- Python programming
+- Experience with REST APIs
+- Basic knowledge of LLMs and prompt engineering
+- Git and GitHub
+- SQL
+Nice to have: FastAPI, Docker

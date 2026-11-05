@@ -1,7 +1,8 @@
-import os
-from dotenv import load_dotenv
-from openai import OpenAI
+from ai_assistant.screener import ResumeScreener
+from ai_assistant.load import load_text
 
-load_dotenv()
+screener = ResumeScreener()
 
-print(os.environ["GEMINI_API_KEY"][:5])
+result = screener.screen(load_text("resume.txt"), load_text("job.txt"))
+
+print("Result: ", result)
