@@ -1,0 +1,10 @@
+Name: Asha Rao
+Summary: Computer Science graduate with experience in Python and web development.
+
+Skills: Python, Java, SQL, React, Git, REST APIs
+
+Projects:
+- Student Management System using React and a REST API (login, CRUD, search)
+- Hospital Management System using Java, Servlets and MySQL
+
+Education: B.E. Computer Science, 2026, CGPA 8.9
